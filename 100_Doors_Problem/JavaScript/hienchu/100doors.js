@@ -3,7 +3,10 @@
  * User: hienchu
  * Date: 2014-08-14
  * Time: 04:13 AM
+ * Copyright (c) 2014 by hienchu
+ * Licensed under the MIT license http://opensource.org/licenses/MIT
  */
+
 //Number of total doors
 var N = 100;
 //Use one bit to indicate the status of one door.
